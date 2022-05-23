@@ -92,3 +92,5 @@ btnHold.addEventListener('click', function () {
 });
 
 btnNew.addEventListener('click', init);
+
+//That was a lot of fun =))
